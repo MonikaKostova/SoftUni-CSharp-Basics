@@ -1,0 +1,14 @@
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.exe
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.deps.json
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.runtimeconfig.json
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.runtimeconfig.dev.json
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.dll
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\11. Fruit Shop\bin\Debug\netcoreapp3.1\11. Fruit Shop.pdb
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.csproj.AssemblyReference.cache
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.AssemblyInfoInputs.cache
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.AssemblyInfo.cs
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.csproj.CoreCompileInputs.cache
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.dll
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.pdb
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\11. Fruit Shop\obj\Debug\netcoreapp3.1\11. Fruit Shop.genruntimeconfig.cache

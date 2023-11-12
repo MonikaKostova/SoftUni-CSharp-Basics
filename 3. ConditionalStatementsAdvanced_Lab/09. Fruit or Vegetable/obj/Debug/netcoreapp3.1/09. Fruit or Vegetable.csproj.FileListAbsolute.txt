@@ -1,0 +1,14 @@
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.csproj.AssemblyReference.cache
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.AssemblyInfoInputs.cache
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.AssemblyInfo.cs
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.csproj.CoreCompileInputs.cache
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.exe
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.deps.json
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.runtimeconfig.json
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.runtimeconfig.dev.json
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.dll
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.pdb
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.dll
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.pdb
+C:\Users\Svetlio\source\repos\ConditionalStatementsAdvanced\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.genruntimeconfig.cache
